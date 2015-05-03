@@ -1,0 +1,17 @@
+{
+  "name": "tickly",
+  "version": "1.0.0",
+  "description": "Compose loops from functions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehgoodenough/tickly"
+  },
+  "author": {
+    "name": "Andrew McPherson",
+    "email": "ehgoodenough@gmail.com"
+  },
+  "dependencies": {
+    "raf": "^2.0.4"
+  }
+}
