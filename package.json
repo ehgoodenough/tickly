@@ -1,6 +1,6 @@
 {
   "name": "tickly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compose loops from functions.",
   "main": "index.js",
   "repository": {
